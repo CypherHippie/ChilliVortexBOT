@@ -6,11 +6,15 @@ This trading script is designed for automated token trading on the Binance Smart
 Ensure you have the ethers library installed:
 
 bash
-Copy code
+
 npm install ethers
  // or
 yarn add ethers
-Configuration
+
+bash
+
+# Configuration
+
 Before running the script, configure the following parameters in the script:
 
 # Contract Addresses:
