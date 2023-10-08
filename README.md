@@ -41,11 +41,11 @@ Test on Testnet: Before deploying on the BSC mainnet, thoroughly test on a BSC t
 
 Smart Contracts: Understand smart contract operations and verify their security before interacting with them on the BSC network.
 
-#Disclaimer
+# Disclaimer
 
 Trading involves risks. Use this script on the BSC mainnet with caution and responsibility. Protect your mnemonic and private keys.
 
-#Contribution
+# Contribution
 
 This script can be customized to suit your trading needs. Consider contributing if you make significant improvements or customizations.
 
