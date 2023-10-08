@@ -1,0 +1,14 @@
+{
+  "name": "crypto-trading-CVXbot",
+  "version": "1.0.0",
+  "description": "Cryptocurrency trading CVXbot",
+  "main": "index.js",
+  "dependencies": {
+    "ethers": "^5.0.31" // 
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "CypherHippie",
+  "license": "MIT"
+}
