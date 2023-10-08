@@ -5,13 +5,15 @@ This trading script is designed for automated token trading on the Binance Smart
 # Dependencies
 Ensure you have the ethers library installed:
 
-bash
+USE:
 
 npm install ethers
+
  // or
+ 
 yarn add ethers
 
-bash
+
 
 # Configuration
 
@@ -20,11 +22,17 @@ Before running the script, configure the following parameters in the script:
 # Contract Addresses:
 
 WBNB: Contract address of WBNB.
+
 factory: Contract address of the token factory.
+
 router: Contract address of the token router.
+
 recipient: Wallet address to receive profits.
+
 tokenToTrade: Contract address of the token to trade.
+
 pair: Contract address of the WBNB pair for trading.
+
 Mnemonic: Provide your mnemonic to access the wallet securely.
 
 WebSocket Provider: Configure the URL of the WebSocket provider for BSC.
